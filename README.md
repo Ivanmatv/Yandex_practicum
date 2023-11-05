@@ -1,5 +1,5 @@
 # Yandex practicum
-База задний приделанных в рамках курса [Python-разработчика](https://github.com/Ivanmatv/Ivanmatv/blob/main/Матвеев%20Иван%20Михайлович_20232BE00518.pdf)
+База заданий приделанных в рамках курса [Python-разработчика](https://github.com/Ivanmatv/Ivanmatv/blob/main/Матвеев%20Иван%20Михайлович_20232BE00518.pdf)
 
 - Спринт 2 - Основы ООП
 - Спринт 3-4 - Фрейворк Django. Основы HTML, CSS
