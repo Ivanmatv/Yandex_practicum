@@ -6,7 +6,7 @@ from django.contrib.auth.decorators import login_required
 from .forms import PostForm, CommentForm
 from .models import Post, Group, User, Follow
 
-NUM_PUB: int = 10
+NUM_PUB: int = 10 # Количество публикацей на сранице
 
 
 def paginator(request, lists):
